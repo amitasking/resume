@@ -290,9 +290,9 @@ jQuery(document).ready(function () {
      ======================================*/
     if ($('#google-map').length > 0) {
         //set your google maps parameters
-        var latitude = 18.520430,
-                longitude = 73.856743,
-                map_zoom = 14;
+        var latitude = 18.565851942658924,
+                longitude = 73.81413224232794,
+                map_zoom = 16;
 
         //google map custom marker icon 
         var marker_url = 'https://maps.gstatic.com/mapfiles/transparent.png';
